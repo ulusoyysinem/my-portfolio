@@ -1,5 +1,4 @@
 # my-portfolio
-This project 
 
 ### Features
 * Modern UI Design + Reveal Animations
